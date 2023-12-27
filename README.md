@@ -1,6 +1,6 @@
 # OptimusTech
 
-Este é um projeto desenvolvido para fins didaticos como parte da formação \_Front-End: A partir do zero: HTML e CSS para projetos web da Alura\_. O projeto consiste em uma landing page do site de uma empresa chamada 'OptimusTech', destacando seus benefícios e recursos.
+Este é um projeto desenvolvido para fins didaticos como parte da formação [Front-End: A partir do zero: HTML e CSS para projetos web] da Alura. O projeto consiste em uma landing page do site de uma empresa chamada 'OptimusTech', destacando seus benefícios e recursos.
 
 Para o utilizar, clique no link a seguir: https://optimus-tech-bay.vercel.app/
 
