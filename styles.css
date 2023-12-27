@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('styles/header.css');
+@import url('styles/about.css');
+@import url('styles/metrics.css');
+@import url('styles/vacancies.css');
+@import url('styles/depositions.css');
+@import url('styles/footer.css');
+
+:root {
+  --base-white: #FFFFFF;
+  --primary-font: 'Inter';
+  --text-color: #3A404E;
+  --red: #8E2424;
+  --gray-200: #EAECF0;
+  --gray-300: #D0D5DD;
+  --gray-400: #98A2B3;
+  --gray-500: #667085;
+  --gray-900: #101828;
+}
+
+body {
+  background-color: var(--base-white);
+  font-size: 16px;
+  font-family: var(--primary-font);
+  font-weight: 400;
+  color: var(--text-color);
+}
